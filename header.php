@@ -1,4 +1,8 @@
-<?php include "db-connect.php" ?>
+<?php
+  include "db-connect.php";
+  include "functions.php"
+
+  ?>
 
 <!DOCTYPE html>
 <html lang="en">
